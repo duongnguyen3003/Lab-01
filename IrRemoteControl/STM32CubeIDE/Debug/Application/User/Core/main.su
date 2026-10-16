@@ -1,0 +1,13 @@
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:80:6:DisplayLEDsRunningSpotL	16	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:120:6:DisplayLEDsRunningSpotR	16	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:160:6:DisplayLEDsFlash	16	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:193:6:DisplayLEDsSpotBumber	16	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:251:6:DisplayLEDs	16	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:270:6:Reset	8	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:283:6:DecimalDecode	8	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:323:5:main	280	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:419:6:SystemClock_Config	88	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:472:13:MX_TIM6_Init	16	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:510:13:MX_USART1_UART_Init	8	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:543:13:MX_GPIO_Init	48	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/main.c:616:6:Error_Handler	4	static,ignoring_inline_asm

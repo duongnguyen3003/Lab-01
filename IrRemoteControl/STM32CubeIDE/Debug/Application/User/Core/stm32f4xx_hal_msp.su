@@ -1,0 +1,5 @@
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/stm32f4xx_hal_msp.c:62:6:HAL_MspInit	16	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/stm32f4xx_hal_msp.c:85:6:HAL_TIM_Base_MspInit	24	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/stm32f4xx_hal_msp.c:111:6:HAL_TIM_Base_MspDeInit	16	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/stm32f4xx_hal_msp.c:136:6:HAL_UART_MspInit	48	static
+C:/Users/Admin/Downloads/Lab 1 - Ver 2.x.x/IrRemoteControl/Core/Src/stm32f4xx_hal_msp.c:173:6:HAL_UART_MspDeInit	16	static

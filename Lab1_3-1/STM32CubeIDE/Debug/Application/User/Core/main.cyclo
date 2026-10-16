@@ -1,0 +1,11 @@
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:62:6:DisplayLEDsRunningSpotL	10
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:102:6:DisplayLEDsRunningSpotR	10
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:142:6:DisplayLEDsFlash	4
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:175:6:DisplayLEDsSpotBumber	12
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:233:6:DisplayLEDs	5
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:252:6:Reset	1
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:271:5:main	6
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:340:6:SystemClock_Config	4
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:393:13:MX_TIM6_Init	3
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:431:13:MX_GPIO_Init	1
+C:/Users/Admin/Desktop/STM32F429ZIT6/Lab 1/Lab1_3-1/Core/Src/main.c:468:6:Error_Handler	1
